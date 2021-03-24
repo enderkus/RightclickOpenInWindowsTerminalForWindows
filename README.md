@@ -1,4 +1,7 @@
 # RightclickOpenInWindowsTerminalForWindows
+
+![Screenshot](scr.png)
+
 Add Right Click Menu ; Open In Windows Terminal For Windows10
 
 First Step ;

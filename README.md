@@ -4,7 +4,7 @@ Add Right Click Menu ; Open In Windows Terminal For Windows10
 First Step ;
 
 Create a folder in C: directory and write name Scripts
-Download wt.js and wt.ico files and move in Scripts folder.
+Download wt.vbs and wt.ico files and move in Scripts folder.
 
 Second Step ; 
 

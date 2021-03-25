@@ -16,4 +16,4 @@ Download wts.bat file and move your Desktop directory. Right click on the file a
 That's It !
 
 Note : I test only Windows 10.
-Requirede Windows Terminal
+Required Windows Terminal
